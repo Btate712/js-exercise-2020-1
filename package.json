@@ -1,0 +1,24 @@
+{
+  "name": "js-exercise-2020-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Btate712/js-exercise-2020-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Btate712/js-exercise-2020-1/issues"
+  },
+  "homepage": "https://github.com/Btate712/js-exercise-2020-1#readme"
+}
